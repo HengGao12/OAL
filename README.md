@@ -5,6 +5,8 @@
 
 Coming soon.
 
+The code will be released if the paper is accepted.
+
 ## Benchmark Evaluation
 ![image](OAL-cifar10-benchmark.png)
 
