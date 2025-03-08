@@ -1,4 +1,3 @@
-# OAL (Under Review)
 
 > Heng Gao, Jun Li*    
 > Fudan University  
