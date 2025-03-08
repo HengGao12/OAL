@@ -1,6 +1,6 @@
 # OAL (Under Review)
 
-> Heng Gao, Zhuolin He, Jian Pu*    
+> Heng Gao, Jun Li*    
 > Fudan University  
 
 Coming soon.
