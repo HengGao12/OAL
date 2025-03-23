@@ -1,5 +1,5 @@
 
-> Heng Gao, Jun Li*    
+>   
 > Fudan University  
 
 Coming soon.
