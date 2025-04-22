@@ -101,7 +101,7 @@ Here is the pretrained weights of teacher models for Knowledge Distillation.
 | In-Distribution Dataset  |                Download Links                  |
 | :---------: | :--------------------------------------: |  
 |  CIFAR-10   | [OneDrive](https://1drv.ms/u/c/409fe51635b9369c/EWtKK1PK-QVJlp3aXop6So4BcQe7fBUfo_yC5DGtw3bZUQ?e=hMtw7B) |
-|  CIFAR-100  | [OneDrive]() |
+|  CIFAR-100  | [OneDrive](https://1drv.ms/f/c/409fe51635b9369c/Eg-GuR-mGLRPtsWc6OvDBzYB5SOrzt2K4Jf1SYnaSN0nHQ?e=fJrCJe) |
 
 ```sh
 # Trained by OAL on CIAFR-10
