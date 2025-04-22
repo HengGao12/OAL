@@ -115,7 +115,7 @@ Before running this command, please load the [pre-trained weights](https://1drv.
 
 ### Benchmark Evaluation Results
 
-
+Waiting for official publication.
 
 ### Acknowledgments
 
