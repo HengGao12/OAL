@@ -105,3 +105,7 @@ bash scripts/basics/cifar100/train_cifar100_oal.sh
 bash scripts/ood/ebo/cifar100_test_ood_ebo.sh
 ```
 Before running this command, please load the pre-trained weights for testing.
+
+### Acknowledgments
+
+OAL is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main), [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models) and [DreamOOD](https://github.com/deeplearning-wisc/dream-ood). Thanks to their great works.
