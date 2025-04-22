@@ -1,3 +1,7 @@
+# Enhancing OOD Detection Using Latent Diffusion
+---
+
+### Usage
 
 #### Installation
 
