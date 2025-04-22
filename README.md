@@ -60,6 +60,8 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 ├── ...
 ```
 
+### Outlier Synthesis and Training
+
 To synthesize OOD samples using Stable Diffusion, please refer to [DreamOOD](https://github.com/deeplearning-wisc/dream-ood) code repository for installation. Note that, here we use `xformers==0.0.13`. The synthesized data and token embeddings can be downloaded from this [link](https://1drv.ms/f/c/409fe51635b9369c/Ehyz7io04k9AsgP855ZGs4QBttFSbDS7gBgQuP4Ou1DDeQ?e=oPeOxl). The following commands are the stepwise synthesis of OOD samples.
 
 #### Get Token Embeddings
