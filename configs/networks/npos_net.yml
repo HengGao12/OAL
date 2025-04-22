@@ -1,0 +1,17 @@
+network:
+  name: npos_net
+  num_classes: '@{dataset.num_classes}'
+  pretrained: False # In training pipeline:"False"; In testing pipeline:"True"
+  num_gpus: '@{num_gpus}'
+  checkpoint: ./results/cifar100_npos_net_npos_e100_lr0.1_default-new-submission-11-7/s0/best.ckpt
+
+  feat_dim: 128
+  head: mlp
+
+  backbone:
+    name: resnet18_224x224
+    num_classes: '@{dataset.num_classes}'
+    image_size: '@{dataset.image_size}'
+    pretrained: False
+    checkpoint: none
+    num_gpus: '@{num_gpus}'
