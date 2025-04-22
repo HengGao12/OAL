@@ -116,6 +116,7 @@ Before running this command, please load the [pre-trained weights](https://1drv.
 ### Benchmark Evaluation Results
 
 
+
 ### Acknowledgments
 
 OAL is developed based on [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main), [Pytorch-Image-Models](https://github.com/huggingface/pytorch-image-models) and [DreamOOD](https://github.com/deeplearning-wisc/dream-ood). Thanks to their great works.
