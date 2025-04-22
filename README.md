@@ -119,7 +119,7 @@ bash scripts/ood/ebo/cifar100_test_ood_ebo.sh
 # Test on CIFAR-10 using EBO score
 bash scripts/ood/ebo/cifar10_test_ood_ebo.sh
 ```
-Before running this command, please load the [pre-trained weights](https://1drv.ms/f/c/409fe51635b9369c/EmLzpJb_fFpFtf3aYFgSE4QBBa-kS0teDWRcjyMDMerlfg?e=SMSVNx) for testing.
+Before running this command, please load the [pretrained models](https://1drv.ms/f/c/409fe51635b9369c/EmLzpJb_fFpFtf3aYFgSE4QBBa-kS0teDWRcjyMDMerlfg?e=SMSVNx) for testing.
 
 ### Benchmark Evaluation Results
 
