@@ -93,7 +93,15 @@ python scripts/get_embed_cifar100.py
 bash outlier_generation/generate_outliers_in_pixel_space.sh
 ```
 
-##### OAL Training
+#### OAL Training
+
+##### Teacher Model Pretrained Weights
+Here is the pretrained weights of teacher models for Knowledge Distillation.
+
+| In-Distribution Dataset  |                Download Links                  |
+| :---------: | :--------------------------------------: |  
+|  CIFAR-10   | [OneDrive](https://1drv.ms/u/c/409fe51635b9369c/EWtKK1PK-QVJlp3aXop6So4BcQe7fBUfo_yC5DGtw3bZUQ?e=hMtw7B) |
+|  CIFAR-100  | [OneDrive]() |
 
 ```sh
 # Trained by OAL on CIAFR-10
