@@ -43,4 +43,4 @@ bash scripts/basics/cifar100/train_cifar100_oal.sh
 # Test on CIFAR-100 using EBO score
 bash scripts/ood/ebo/cifar100_test_ood_ebo.sh
 ```
-Before running this command, please load the oal pre-trained weights for testing.
+Before running this command, please load the pre-trained weights for testing.
