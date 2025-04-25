@@ -1,4 +1,6 @@
 # Enhancing OOD Detection Using Latent Diffusion
+
+> Fudan University
 ---
 
 ### Usage
