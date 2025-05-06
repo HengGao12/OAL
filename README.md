@@ -42,6 +42,7 @@ In order to better adapt to the OpenOOD framework, we changed the  `vision_trans
         return self.head
 ...
 ```
+**All environmrnt settings are listed in requirements.txt**
 
 #### Data Preparation
 
