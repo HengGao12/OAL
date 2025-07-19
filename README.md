@@ -127,7 +127,10 @@ Before running this command, please load the [pretrained models](https://1drv.ms
 
 ### Benchmark Evaluation Results
 
-Waiting for official publication.
+![img|center](./OAL-cifar10-benchmark.png)  
+![img|center](./OAL-cifar100-benchmark.png)  
+
+The Leaderboard link is: https://zjysteven.github.io/OpenOOD/
 
 ### Acknowledgments
 
