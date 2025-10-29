@@ -1,5 +1,5 @@
 # Enhancing OOD Detection Using Latent Diffusion
-> Heng Gao, Jun Li
+> Heng Gao, Jun Li  
 > Fudan University
 ---
 
